@@ -10,10 +10,10 @@ Create a data set that contains a representative sample of stocks in varying ind
 Data Sources:
 -------------
 
-Spyder ETF Large Cap Fund (csv file)
-Spyder ETF Medium Cap Fund (csv file)
-Spyder ETF Small Cap Fund (csv file)
-IEXTrading API (json)
+- Spyder ETF Large Cap Fund (csv file)
+- Spyder ETF Medium Cap Fund (csv file)
+- Spyder ETF Small Cap Fund (csv file)
+- IEXTrading API (json)
 
 The Spyder ETFs were used to create a representative list of large to small cap stocks. 
 IEXTrading API was used to obtain current stock prices and key statistics.
